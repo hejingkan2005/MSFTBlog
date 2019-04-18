@@ -1,3 +1,3 @@
 # Welcome to blog!
 
-This is my blog
+This is my blog.
