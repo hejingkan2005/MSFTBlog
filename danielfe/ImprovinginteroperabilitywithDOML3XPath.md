@@ -34,6 +34,8 @@ examples or tutorials, you’ll immediately find results that check for
 IE-specific code to use MSXML for evaluating the query in a
 non-interoperable way:
 
+<script src="https://gist.github.com/kypflug/dde94c9ac62bc14a9004.js"></script>
+
 In our new rendering engine, the script engine executes modern Web
 content, so a plugin-free, native implementation of XPath is required.
 
