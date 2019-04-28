@@ -42,3 +42,10 @@
 		<script type='text/javascript' src='resource/jquery-1.12.1.min.js'></script>
 		<script type='text/javascript' src='resource/replace.js'></script>
 		</html>
+
+		
+	<p>
+		<li> Item #1 </li>
+		<li> Item #2 </li>
+		<li> Item #3 </li>
+	</p>
